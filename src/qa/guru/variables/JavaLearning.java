@@ -1,7 +1,6 @@
 package qa.guru.variables;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 
 public class JavaLearning {
 
